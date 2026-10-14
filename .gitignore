@@ -1,0 +1,5 @@
+/storage/*
+!/storage/index.php
+/*.zip
+/.env
+/.env.*
